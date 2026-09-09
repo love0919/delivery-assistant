@@ -15,6 +15,7 @@ android {
         versionName = "2.0-auto-capture"
     }
 
+    // Keep Java and Kotlin JVM targets consistent for GitHub Actions builds.
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
