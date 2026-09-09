@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">外送助手 Pro</string>
+    <string name="accessibility_service_description">讀取 Uber Driver 進單畫面上的平台金額，並自動建立獨立計時訂單。資料只在本機使用。</string>
+</resources>
